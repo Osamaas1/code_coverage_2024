@@ -1,8 +1,7 @@
 package code_coverage_4.code_coverage_4;
 
-import static org.junit.Assert.assertEquals;
-
 import org.junit.Test;
+import static org.junit.Assert.*;
 
 public class Test_weak_method_1_a {
 	
